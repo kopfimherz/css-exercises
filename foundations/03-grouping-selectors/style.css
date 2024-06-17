@@ -1,0 +1,14 @@
+button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Romas", sans-serif;
+}
+
+.black-bgc {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.yellow-bgc {
+    background-color: yellow;
+}
